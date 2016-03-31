@@ -1,6 +1,6 @@
 # Emysql
 
-[![Build Status](https://travis-ci.org/Eonblast/Emysql.png?branch=master)](https://travis-ci.org/Eonblast/Emysql)
+[![Build Status](https://travis-ci.org/YellowS4/Emysql.png?branch=master)](https://travis-ci.org/Eonblast/Emysql)
 
 To use this driver, see the [Samples] further down in this README document.
 
